@@ -1,0 +1,8 @@
+show_downloads: true
+title: Open Maritime Wiki
+description: All the seamen would need.
+collections:
+  tools:
+    output: true
+include:
+  - index.md
